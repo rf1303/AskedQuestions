@@ -1,0 +1,76 @@
+html { 
+     font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+    font-family: Inter;
+    font-weight: 400;
+    background: linear-gradient( white 0%, white 20%, #F9FAFC 20%, #F9FAFC 100%);
+}
+
+.layout {
+    max-width: 70rem;
+    margin: 0 auto;
+}
+
+.layout__header {
+    text-align: center;
+    padding: 3rem;
+}
+
+.layout__main {
+    margin-left: 3rem;
+}
+.header__title { 
+    font-size: 3.6rem;
+    font-weight: 600;
+}
+
+.header__subtitle {
+    font-size: 1.5rem;
+}
+
+.main__title,
+.policy__title {
+    font-size: 2.4rem;
+    font-weight: 600;
+}
+
+.main__subtitle,
+.policy__subtitle {
+    font-size: 1.5rem;
+}
+
+.main__line {
+    margin: 3rem 0 5rem 0;
+    border-top: .2rem solid #DADDE1;
+}
+
+.list__track {
+    margin: 0;
+    padding: 1rem;
+    padding-left: 0;
+}
+
+.order__list,
+.policy__list {
+    padding-left: 2rem;
+}
+
+.order__link {
+    text-decoration: none; 
+}
+
+.order__footer,
+.policy__footer {
+    padding: 1.6rem 0;
+}
+
+@media (min-width:1024px) {
+     
+}
+
+
+
+
