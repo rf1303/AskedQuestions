@@ -17,10 +17,13 @@ body {
 .layout__header {
     text-align: center;
     padding: 3rem;
+    padding-botton: 5rem;
 }
 
 .layout__main {
-    margin-left: 3rem;
+     margin-left: 3rem;
+     margin-top: 2rem;
+     padding-top: 2rem;
 }
 .header__title { 
     font-size: 3.6rem;
